@@ -1,0 +1,11 @@
+[local]
+localhost
+
+[webserver]
+
+[elastic-server]
+3.15.160.108
+18.217.228.155
+18.224.8.46
+
+[elastic-server-02]
